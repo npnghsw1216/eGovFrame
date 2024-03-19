@@ -1,2 +1,2 @@
 # eGovFrame
-eGovFrame-v4.2
+eGovFramework-v4.2
